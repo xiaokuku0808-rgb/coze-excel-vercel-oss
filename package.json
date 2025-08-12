@@ -1,0 +1,13 @@
+{
+  "name": "coze-excel-vercel-oss",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "ali-oss": "^6.17.1",
+    "exceljs": "^4.3.0",
+    "uuid": "^9.0.0"
+  }
+}
